@@ -1,0 +1,54 @@
+
+Ruby intro part 1
+  #sum
+[32m    should be defined[0m
+[32m    returns correct sum[0m
+[32m    works on the empty array[0m
+  #max_2_sum
+[32m    should be defined[0m
+[32m    returns the correct sum[0m
+[32m    works even if 2 largest values are the same[0m
+[32m    returns zero if array is empty[0m
+[32m    returns value of the element if just one element[0m
+  #sum_to_n?
+[32m    should be defined[0m
+[32m    returns true when any two elements sum to the second argument[0m
+[32m    returns false for any single element array[0m
+[32m    returns false for an empty array[0m
+
+Ruby intro part 2
+  #hello
+[32m    should be defined[0m
+[32m    returns the correct string[0m
+  #starts_with_consonant?
+[32m    should be defined[0m
+[32m    classifies true cases[0m
+[32m    classifies false cases[0m
+[32m    works on the empty string[0m
+[32m    works on nonletters[0m
+  #binary_multiple_of_4?
+[32m    should be defined[0m
+[32m    classifies valid binary numbers[0m
+[32m    rejects invalid binary numbers[0m
+
+Ruby intro part 3
+  BookInStock
+[32m    should be defined[0m
+    getters and setters
+[32m      should set ISBN[0m
+[32m      should set price[0m
+[32m      should be able to change ISBN[0m
+[32m      should be able to change price[0m
+    constructor
+[32m      should reject invalid ISBN number[0m
+[32m      should reject zero price[0m
+[32m      should reject negative price[0m
+    #price_as_string
+[32m      should be defined[0m
+[32m      should display 33.95 as $33.95[0m
+[32m      should display 1.1 as $1.10[0m
+[32m      should display 20 as $20.00[0m
+
+Finished in 0.0042 seconds (files took 0.0628 seconds to load)
+[32m34 examples, 0 failures[0m
+
