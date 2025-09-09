@@ -1,6 +1,6 @@
 [submodule "Simple-Ruby-RestAPI"]
 	path = Simple-Ruby-RestAPI
-	url = https://github.com/philipritchey/simple-ruby-rest-api.git
+	url = git@github.com:khussalpradhan/project-alpha.git
 [submodule "Programming_Assignment1_Ruby_Intro"]
 	path = Programming_Assignment1_Ruby_Intro
-	url = https://github.com/tamu-edu-students/hw-ruby-intro.git
+	url = git@github.com:khussalpradhan/project-alpha.git
