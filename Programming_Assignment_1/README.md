@@ -154,3 +154,5 @@ Don't forget to add, commit, and push!
 * I **strongly** recommend that you conform to a Ruby style guide: `gem install rubocop`, then run `rubocop [list of filenames to check]`.
 
 * Try getting setup with an automated test framework such as [guard](http://code.tutsplus.com/tutorials/testing-your-ruby-code-with-guard-rspec-pry--cms-19974) or [autotest](https://rubygems.org/gems/minitest-autotest).  Guard or AutoTest can be set up so that they will run all the tests in `spec/`, but every time you edit and save your code file, the tests are automatically re-run, so you don't have to run them manually.  As you should have seen in this assignment, this is the "watch the test fail" part of the TDD or test-driven process of development: write the tests before you write the code, watch the test fail, fill in the code and save the code file, then watch the test pass!
+
+Completed.
